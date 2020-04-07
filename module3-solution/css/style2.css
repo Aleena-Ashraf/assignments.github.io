@@ -60,6 +60,7 @@ h1 {
 hr {
 	width: 50%;
 }
-.full {
-	width: 100%;
+.nav-link {
+	background: black;
+	color: white;
 }
