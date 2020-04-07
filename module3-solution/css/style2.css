@@ -45,7 +45,6 @@ h1 {
 .jumboh {
 	font-size: 20px;
 	font-weight: bold;
-	text-align: center;
 	margin-bottom: 10px;
 }
 .navbar-toggler {
@@ -63,4 +62,9 @@ hr {
 .nav-link {
 	background: black;
 	color: white;
+}
+.col-xs-12 {
+	background:#d6d5d4;
+	padding: 15px;
+	margin: 20px
 }
